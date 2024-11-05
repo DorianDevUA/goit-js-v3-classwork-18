@@ -1,11 +1,11 @@
 {
-  "name": "vite-template",
+  "name": "goit-js-v3-classwork-18",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vite-template-v1/",
+    "build": "vite build --base=/goit-js-v3-classwork-18/",
     "preview": "vite preview"
   },
   "author": "Dorian DevUa <dorian.devua@gmail.com>",
